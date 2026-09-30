@@ -106,4 +106,4 @@ The client app will open on `http://localhost:5173`.
 ## 📄 License
 This project is licensed under the **MIT License**.
 
-Copyright (c) 2026 Isula Mihisara (MihisaraNet). All rights reserved.
+Copyright (c) 2026. All rights reserved.
